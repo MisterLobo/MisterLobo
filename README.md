@@ -1,4 +1,5 @@
 ### Hi there 👋
+- Check out my projects on my [portfolio](https://misterlobo.github.io)
 - 🔭 I’m currently working on [pyzza](https://github.com/0xd00bed00bed00/pyzza)
 - 🌱 I’m currently learning Python and exploring other programming languages
 - ⚡ I play video games
